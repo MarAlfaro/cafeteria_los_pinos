@@ -41,7 +41,7 @@
 .instagram:hover {
     background-color: white;
     border-radius: 100px;
-    color: #de5c13 !important;
+    color: #4AA822 !important;
 }
 
 .instagram:hover .oculta {
@@ -59,13 +59,13 @@
 .facebook:hover {
     background-color: white;
     border-radius: 100px;
-    color: #de5c13 !important;
+    color: #4AA822 !important;
 }
 
 .whatsapp:hover {
     background-color: white;
     border-radius: 100px;
-    color: #de5c13 !important;
+    color: #4AA822 !important;
 }
 
 .oculta {
@@ -129,13 +129,13 @@ div.container-fluid {
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover {
-    background: #de5c13;
+    background: #4AA822;
     color: #ffffff;
    
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link {
-    background: #de5c13;
+    background: #4AA822;
     color: #ffffff;
     border-radius: 4px;
     
@@ -159,7 +159,7 @@ div.container-fluid {
     
 }
 .navbar-expand-lg .navbar-nav .dropdown-menu a.dropdown-item:hover {
-    background: #de5c13;
+    background: #4AA822;
     color: #ffffff;
     
 }
@@ -168,7 +168,7 @@ div.container-fluid {
     margin-bottom: 5px;
 }
 .navbar-light .navbar-toggler:hover {
-    background: #de5c13;
+    background: #4AA822;
 }
 
 .logo {
@@ -221,7 +221,7 @@ div.container-fluid {
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 500;
-    border-bottom: 2px solid #de5c13;
+    border-bottom: 2px solid #4AA822;
     margin-bottom: 10px;
 }
 
@@ -261,7 +261,7 @@ div.container-fluid {
     position: relative;
     display: block;
     background-color: #010101;
-    border-top: 1px solid #de5c13;
+    border-top: 1px solid #4AA822;
     padding: 30px 0;
     z-index: 1;
 }
