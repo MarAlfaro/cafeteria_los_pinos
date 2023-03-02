@@ -1,0 +1,182 @@
+* {
+	padding: 0%;
+	margin: 0%;
+}
+
+body {
+	color: #666666;
+	font-size: 13px;
+	font-family: 'Rubic', sans-serif;
+}
+
+h2 {
+	color: white;
+}
+
+.nosotros {
+	font-size: 15px;
+	margin-top: -15px;
+}
+
+h3 {
+	text-align: center;
+	color: #dc2743;
+}
+
+#imagen {
+	width: 350px;
+	height: 100%;
+}
+
+.contenedor {
+	width: 100%;
+	height: 130px;
+	background-color: #de5c13;
+	color: #ffffff;
+	text-align: center;
+}
+
+.comentarios {
+	width: 60%;
+	margin-left: 20%;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+.texto-comentar {
+	color: #de5c13 !important;
+	font-family: Gabriola;
+	font-size: 25px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+textarea {
+	width: 100%;
+	padding: 1%;
+}
+
+.btn-comentar {
+	width: 100%;
+	text-transform: uppercase;
+	background-color: #de5c13;
+	border: none !important;
+}
+
+.btn-comentar:hover {
+	background-color: #de5c13;
+}
+
+@font-face {
+	font-family: elejida;
+	src: url(../fonts/Nickainley-Normal.otf)
+}
+
+.Nickainley-Normal {
+	left: 30px;
+	font-size: 25px;
+	padding: 10px 20px;
+	color: #E94D5E;
+	font-family: elejida;
+}
+
+.Nickainley-Normal-titulo {
+	text-align: center;
+	font-size: 35px;	
+	color: #070707;
+	font-family: elejida;
+}
+
+.Nickainley-Normaln {
+	left: 30px;
+	font-size: 30px;
+	padding: 10px 20px;
+	color: white;
+	font-family: elejida;
+	margin-top: -10px;
+}
+
+.Nickainley-Normal1 {
+	left: 30px;
+	font-size: 30px;
+	padding: 10px 20px;
+	color: #E94D5E;
+	font-family: elejida;
+	margin-left: -15px;
+}
+
+.Nickainley-Normalh {
+	font-size: 30px;
+	margin-top: 5%;
+	color: #E94D5E;
+	font-family: elejida;
+	text-align: left;
+}
+
+@font-face {
+	font-family: aileron;
+	src: url(../fonts/aileron.regular.otf)
+}
+
+.aileron {
+	font-family: aileron;
+	font-size: 14px;
+}
+
+.aileron1 {
+	font-family: aileron;
+	font-size: 18px;
+}
+
+#container1 {
+	background-image: url(../img/fondoH.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 100%;
+	height: 1006px;
+}
+
+#margen {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.section {
+	width: 100%;
+	height: 400px;
+}
+
+	p {
+		text-align: justify;
+	}
+	p1 {
+		text-align: justify;
+		position:fixed;
+	}
+
+.conf {
+	display: inline-block;	
+}
+
+.conf2 {
+	display: inline-block;
+}
+
+.carousel-item {
+	width: 100%;
+	height: 500px;
+}
+
+.card-img-top {
+	width: 100%;
+	height: 200px;
+}
+.card-title{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 17px;
+}
+.card-text {
+	text-align: justify;
+}
