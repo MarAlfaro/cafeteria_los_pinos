@@ -72,12 +72,19 @@ textarea {
 	src: url(../fonts/Nickainley-Normal.otf)
 }
 
-.Nickainley-Normal {
+.Nickainley-Normal-lema {
 	margin-left: 75px;
 	margin-right: 75px;
 	font-size: 25px;
 	padding: 10px 20px;
 	color: #FEA500;
+	font-family: elejida;
+}
+.Nickainley-Normal {
+	left: 30px;
+	font-size: 25px;
+	padding: 10px 20px;
+	color: #E94D5E;
 	font-family: elejida;
 }
 
