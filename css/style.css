@@ -73,10 +73,11 @@ textarea {
 }
 
 .Nickainley-Normal {
-	left: 30px;
+	margin-left: 75px;
+	margin-right: 75px;
 	font-size: 25px;
 	padding: 10px 20px;
-	color: #FE2900;
+	color: #FEA500;
 	font-family: elejida;
 }
 
@@ -100,7 +101,7 @@ textarea {
 	left: 30px;
 	font-size: 30px;
 	padding: 10px 20px;
-	color: #E94D5E;
+	color: #FE2900;
 	font-family: elejida;
 	margin-left: -15px;
 }
@@ -108,7 +109,7 @@ textarea {
 .Nickainley-Normalh {
 	font-size: 30px;
 	margin-top: 5%;
-	color: #E94D5E;
+	color: #FE2900;
 	font-family: elejida;
 	text-align: left;
 }
