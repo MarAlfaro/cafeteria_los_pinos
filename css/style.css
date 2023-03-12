@@ -127,13 +127,9 @@ textarea {
 
 .aileron {
 	font-family: aileron;
-	font-size: 14px;
+	font-size: 16px;
 }
 
-.aileron1 {
-	font-family: aileron;
-	font-size: 18px;
-}
 
 #container1 {
 	background-image: url(../img/fondoH.gif);
